@@ -1,1 +1,1 @@
-# snooker
+Készítette: Dóczi Márk
